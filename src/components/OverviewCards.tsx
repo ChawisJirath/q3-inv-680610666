@@ -64,33 +64,11 @@ export function OverviewCards() {
       </Card>
       <Card>
         <CardHeader className="flex flex-row items-center justify-between pb-2">
-          <CardTitle className="text-sm font-medium">Electronics</CardTitle>
+          <CardTitle className="text-sm font-medium">Clothing</CardTitle>
         </CardHeader>
         <CardContent>
-          <div className="text-2xl text-red-500 font-bold"><Card>
-        <CardHeader className="flex flex-row items-center justify-between pb-2">
-          <CardTitle className="text-sm font-medium">Electronics</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="text-2xl text-red-500 font-bold">฿</div>
-        </CardContent>
-      </Card>
-      <Card>
-        <CardHeader className="flex flex-row items-center justify-between pb-2">
-          <CardTitle className="text-sm font-medium">Stationery</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="text-2xl text-blue-500 font-bold">฿</div>
-        </CardContent>
-      </Card>
-      <Card>
-        <CardHeader className="flex flex-row items-center justify-between pb-2">
-          <CardTitle className="text-sm font-medium">Grocery</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="text-2xl text-green-700 font-bold">฿</div>
-        </CardContent>
-      </Card></div>
+          <div className="text-2xl text-red-500 font-bold">
+      </div>
         </CardContent>
       </Card>
       <Card>
