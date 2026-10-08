@@ -39,6 +39,7 @@ export function CategoryCards() {
 
         return (
           // Use Card component to display values by category
+          
           <div>
             {category.label} - ฿{categoryValue.toFixed(2)} - {categoryUnits}{" "}
             units

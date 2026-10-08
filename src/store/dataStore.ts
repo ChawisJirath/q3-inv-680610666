@@ -85,7 +85,7 @@ export const useItemStore = create<ItemState>()(
     }),
     {
       // Unique key name for the localStorage entry
-      name: "app-storage",
+      name: "inv-680610666",
     },
   ),
 );
